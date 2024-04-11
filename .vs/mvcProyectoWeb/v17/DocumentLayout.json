@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\anahi\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\mvcproyectoweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\anahi\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\mvcproyectoweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\anahi\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\mvcproyectoweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5DB343-2C29-4375-B6B8-78051BC2590D}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|c:\\users\\anahi\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\mvcproyectoweb.accesodatos\\mvcproyectoweb.accesodatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F5DB343-2C29-4375-B6B8-78051BC2590D}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|solutionrelative:mvcproyectoweb.accesodatos\\mvcproyectoweb.accesodatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455B2D4B-5F6D-4C39-8F2E-8C9F81E6BC37}|mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj|c:\\users\\anahi\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\mvcproyectoweb.models\\mvcproyectoweb.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{455B2D4B-5F6D-4C39-8F2E-8C9F81E6BC37}|mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj|solutionrelative:mvcproyectoweb.models\\mvcproyectoweb.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\anahi\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\mvcproyectoweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\anahi\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\mvcproyectoweb\\areas\\cliente\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\areas\\cliente\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\anahi\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\mvcproyectoweb\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\anahi\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\mvcproyectoweb\\areas\\cliente\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\areas\\cliente\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\anahi\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\mvcproyectoweb\\areas\\cliente\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\areas\\cliente\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\anahi\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\mvcproyectoweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\anahi\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\mvcproyectoweb\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\anahi\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\mvcproyectoweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\anahi\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\mvcproyectoweb\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "mvcProyectoWeb\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T01:09:29.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Cliente\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Areas\\Cliente\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Cliente\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "mvcProyectoWeb\\Areas\\Cliente\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T00:17:17.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mvcProyectoWeb.AccesoDatos.csproj",
+              "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj",
+              "RelativeDocumentMoniker": "mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj",
+              "ToolTip": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj",
+              "RelativeToolTip": "mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-10T23:30:24.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "mvcProyectoWeb\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T01:09:30.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Program.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Program.cs",
+              "RelativeToolTip": "mvcProyectoWeb\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T00:21:50.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "mvcProyectoWeb\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T00:16:55.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "mvcProyectoWeb.Models.csproj",
+              "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj",
+              "RelativeDocumentMoniker": "mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj",
+              "ToolTip": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj",
+              "RelativeToolTip": "mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-11T00:23:34.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "mvcProyectoWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T00:20:17.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "mvcProyectoWeb\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T00:11:37.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Cliente\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Areas\\Cliente\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Cliente\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "mvcProyectoWeb\\Areas\\Cliente\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T23:55:59.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "mvcProyectoWeb\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-11T00:02:01.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "mvcProyectoWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T00:01:53.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "mvcProyectoWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T23:51:02.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "mvcProyectoWeb\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-10T23:50:05.33Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
