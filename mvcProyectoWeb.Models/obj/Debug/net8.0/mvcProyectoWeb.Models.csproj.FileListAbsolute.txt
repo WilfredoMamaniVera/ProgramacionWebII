@@ -20,3 +20,4 @@ C:\Users\anahi\source\repos\mvcProyectoWeb\mvcProyectoWeb\mvcProyectoWeb.Models\
 C:\Users\anahi\source\repos\mvcProyectoWeb\mvcProyectoWeb\mvcProyectoWeb.Models\obj\Debug\net8.0\refint\mvcProyectoWeb.Models.dll
 C:\Users\anahi\source\repos\mvcProyectoWeb\mvcProyectoWeb\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoWeb.Models.pdb
 C:\Users\anahi\source\repos\mvcProyectoWeb\mvcProyectoWeb\mvcProyectoWeb.Models\obj\Debug\net8.0\ref\mvcProyectoWeb.Models.dll
+C:\Users\anahi\source\repos\mvcProyectoWeb\mvcProyectoWeb\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoWeb.Models.sourcelink.json

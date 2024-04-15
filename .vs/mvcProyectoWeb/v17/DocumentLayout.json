@@ -3,8 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\anahi\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\mvcproyectoweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb.AccesoDatos\\Data\\Migrations\\20240415231822_MiPrimeraMigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mvcProyectoWeb.AccesoDatos\\Data\\Migrations\\20240415231822_MiPrimeraMigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb.AccesoDatos\\Data\\Migrations\\20240415231310_MiPrimeraMigracionCorrecta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mvcProyectoWeb.AccesoDatos\\Data\\Migrations\\20240415231310_MiPrimeraMigracionCorrecta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\anahi\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\mvcproyectoweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5DB343-2C29-4375-B6B8-78051BC2590D}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|c:\\users\\anahi\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\mvcproyectoweb.accesodatos\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5DB343-2C29-4375-B6B8-78051BC2590D}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|solutionrelative:mvcproyectoweb.accesodatos\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5DB343-2C29-4375-B6B8-78051BC2590D}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|c:\\users\\anahi\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\mvcproyectoweb.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5DB343-2C29-4375-B6B8-78051BC2590D}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|solutionrelative:mvcproyectoweb.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5DB343-2C29-4375-B6B8-78051BC2590D}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|c:\\users\\anahi\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\mvcproyectoweb.accesodatos\\data\\repository\\irepository\\ialmacenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5DB343-2C29-4375-B6B8-78051BC2590D}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|solutionrelative:mvcproyectoweb.accesodatos\\data\\repository\\irepository\\ialmacenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5DB343-2C29-4375-B6B8-78051BC2590D}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|c:\\users\\anahi\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\mvcproyectoweb.accesodatos\\data\\repository\\almacenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5DB343-2C29-4375-B6B8-78051BC2590D}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|solutionrelative:mvcproyectoweb.accesodatos\\data\\repository\\almacenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5DB343-2C29-4375-B6B8-78051BC2590D}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|c:\\users\\anahi\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\mvcproyectoweb.accesodatos\\data\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5DB343-2C29-4375-B6B8-78051BC2590D}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|solutionrelative:mvcproyectoweb.accesodatos\\data\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5DB343-2C29-4375-B6B8-78051BC2590D}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|c:\\users\\anahi\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\mvcproyectoweb.accesodatos\\data\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5DB343-2C29-4375-B6B8-78051BC2590D}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|solutionrelative:mvcproyectoweb.accesodatos\\data\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5DB343-2C29-4375-B6B8-78051BC2590D}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|c:\\users\\anahi\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\mvcproyectoweb.accesodatos\\mvcproyectoweb.accesodatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F5DB343-2C29-4375-B6B8-78051BC2590D}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|solutionrelative:mvcproyectoweb.accesodatos\\mvcproyectoweb.accesodatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\anahi\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\mvcproyectoweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455B2D4B-5F6D-4C39-8F2E-8C9F81E6BC37}|mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj|c:\\users\\anahi\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\mvcproyectoweb.models\\almacen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455B2D4B-5F6D-4C39-8F2E-8C9F81E6BC37}|mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj|solutionrelative:mvcproyectoweb.models\\almacen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455B2D4B-5F6D-4C39-8F2E-8C9F81E6BC37}|mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj|c:\\users\\anahi\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\mvcproyectoweb.models\\mvcproyectoweb.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{455B2D4B-5F6D-4C39-8F2E-8C9F81E6BC37}|mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj|solutionrelative:mvcproyectoweb.models\\mvcproyectoweb.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\anahi\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\mvcproyectoweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\anahi\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\mvcproyectoweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -13,14 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\anahi\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\mvcproyectoweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F5DB343-2C29-4375-B6B8-78051BC2590D}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|c:\\users\\anahi\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\mvcproyectoweb.accesodatos\\mvcproyectoweb.accesodatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2F5DB343-2C29-4375-B6B8-78051BC2590D}|mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj|solutionrelative:mvcproyectoweb.accesodatos\\mvcproyectoweb.accesodatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{455B2D4B-5F6D-4C39-8F2E-8C9F81E6BC37}|mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj|c:\\users\\anahi\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\mvcproyectoweb.models\\mvcproyectoweb.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{455B2D4B-5F6D-4C39-8F2E-8C9F81E6BC37}|mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj|solutionrelative:mvcproyectoweb.models\\mvcproyectoweb.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\anahi\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\mvcproyectoweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,10 +91,6 @@
       "RelativeMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\areas\\cliente\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\anahi\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\mvcproyectoweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\anahi\\source\\repos\\mvcproyectoweb\\mvcproyectoweb\\mvcproyectoweb\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{EFD83E9D-687C-4EF6-ABF6-49968BBD2D3E}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -66,11 +110,154 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240415231822_MiPrimeraMigracion.cs",
+              "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb.AccesoDatos\\Data\\Migrations\\20240415231822_MiPrimeraMigracion.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb.AccesoDatos\\Data\\Migrations\\20240415231822_MiPrimeraMigracion.cs",
+              "ToolTip": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb.AccesoDatos\\Data\\Migrations\\20240415231822_MiPrimeraMigracion.cs",
+              "RelativeToolTip": "mvcProyectoWeb.AccesoDatos\\Data\\Migrations\\20240415231822_MiPrimeraMigracion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T23:18:22.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "20240415231310_MiPrimeraMigracionCorrecta.cs",
+              "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb.AccesoDatos\\Data\\Migrations\\20240415231310_MiPrimeraMigracionCorrecta.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb.AccesoDatos\\Data\\Migrations\\20240415231310_MiPrimeraMigracionCorrecta.cs",
+              "ToolTip": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb.AccesoDatos\\Data\\Migrations\\20240415231310_MiPrimeraMigracionCorrecta.cs",
+              "RelativeToolTip": "mvcProyectoWeb.AccesoDatos\\Data\\Migrations\\20240415231310_MiPrimeraMigracionCorrecta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T23:13:10.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\appsettings.json",
+              "RelativeToolTip": "mvcProyectoWeb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-12T00:16:22.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb.AccesoDatos\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb.AccesoDatos\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb.AccesoDatos\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "mvcProyectoWeb.AccesoDatos\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T17:42:25.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAlmacenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb.AccesoDatos\\Data\\Repository\\IRepository\\IAlmacenRepository.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb.AccesoDatos\\Data\\Repository\\IRepository\\IAlmacenRepository.cs",
+              "ToolTip": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb.AccesoDatos\\Data\\Repository\\IRepository\\IAlmacenRepository.cs",
+              "RelativeToolTip": "mvcProyectoWeb.AccesoDatos\\Data\\Repository\\IRepository\\IAlmacenRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T00:53:30.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Program.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Program.cs",
+              "RelativeToolTip": "mvcProyectoWeb\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAACWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T00:21:50.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "mvcProyectoWeb.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T00:48:16.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb.AccesoDatos\\Data\\Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb.AccesoDatos\\Data\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb.AccesoDatos\\Data\\Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "mvcProyectoWeb.AccesoDatos\\Data\\Repository\\IRepository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T00:53:16.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb.AccesoDatos\\Data\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb.AccesoDatos\\Data\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb.AccesoDatos\\Data\\Repository\\Repository.cs",
+              "RelativeToolTip": "mvcProyectoWeb.AccesoDatos\\Data\\Repository\\Repository.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAtwGAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T00:53:44.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AlmacenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb.AccesoDatos\\Data\\Repository\\AlmacenRepository.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb.AccesoDatos\\Data\\Repository\\AlmacenRepository.cs",
+              "ToolTip": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb.AccesoDatos\\Data\\Repository\\AlmacenRepository.cs",
+              "RelativeToolTip": "mvcProyectoWeb.AccesoDatos\\Data\\Repository\\AlmacenRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T00:54:01.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "mvcProyectoWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwE0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T00:01:53.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "mvcProyectoWeb\\Views\\_ViewStart.cshtml",
@@ -83,19 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Cliente\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "mvcProyectoWeb\\Areas\\Cliente\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Cliente\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "mvcProyectoWeb\\Areas\\Cliente\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-11T00:17:17.99Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "mvcProyectoWeb.AccesoDatos.csproj",
               "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj",
               "RelativeDocumentMoniker": "mvcProyectoWeb.AccesoDatos\\mvcProyectoWeb.AccesoDatos.csproj",
@@ -108,45 +283,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
+              "Title": "Almacen.cs",
+              "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb.Models\\Almacen.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb.Models\\Almacen.cs",
+              "ToolTip": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb.Models\\Almacen.cs",
+              "RelativeToolTip": "mvcProyectoWeb.Models\\Almacen.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T00:19:39.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "mvcProyectoWeb\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "mvcProyectoWeb\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Cliente\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Areas\\Cliente\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Cliente\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "mvcProyectoWeb\\Areas\\Cliente\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-11T01:09:30.821Z",
+              "WhenOpened": "2024-04-11T00:17:17.99Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Program.cs",
-              "RelativeDocumentMoniker": "mvcProyectoWeb\\Program.cs",
-              "ToolTip": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Program.cs",
-              "RelativeToolTip": "mvcProyectoWeb\\Program.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAACsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T00:21:50.022Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "mvcProyectoWeb\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "mvcProyectoWeb\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-11T00:16:55.26Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "mvcProyectoWeb.Models.csproj",
               "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj",
               "RelativeDocumentMoniker": "mvcProyectoWeb.Models\\mvcProyectoWeb.Models.csproj",
@@ -159,7 +322,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
+              "Title": "bootstrap5.min.css",
+              "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
+              "ToolTip": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
+              "RelativeToolTip": "mvcProyectoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIQOAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-11T23:58:35.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "mvcProyectoWeb\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T01:09:30.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "mvcProyectoWeb\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T00:16:55.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "mvcProyectoWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -167,11 +369,12 @@
               "RelativeToolTip": "mvcProyectoWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-11T00:20:17.344Z"
+              "WhenOpened": "2024-04-11T00:20:17.344Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "mvcProyectoWeb\\Models\\ErrorViewModel.cs",
@@ -179,11 +382,12 @@
               "RelativeToolTip": "mvcProyectoWeb\\Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T00:11:37.026Z"
+              "WhenOpened": "2024-04-11T00:11:37.026Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Cliente\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "mvcProyectoWeb\\Areas\\Cliente\\Controllers\\HomeController.cs",
@@ -191,11 +395,12 @@
               "RelativeToolTip": "mvcProyectoWeb\\Areas\\Cliente\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T23:55:59.885Z"
+              "WhenOpened": "2024-04-10T23:55:59.885Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 22,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "mvcProyectoWeb\\Views\\Shared\\_Layout.cshtml.css",
@@ -203,23 +408,12 @@
               "RelativeToolTip": "mvcProyectoWeb\\Views\\Shared\\_Layout.cshtml.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-11T00:02:01.081Z"
+              "WhenOpened": "2024-04-11T00:02:01.081Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "mvcProyectoWeb\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "mvcProyectoWeb\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-11T00:01:53.986Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 24,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "mvcProyectoWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
@@ -227,11 +421,12 @@
               "RelativeToolTip": "mvcProyectoWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-10T23:51:02.77Z"
+              "WhenOpened": "2024-04-10T23:51:02.77Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 23,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "mvcProyectoWeb\\ScaffoldingReadMe.txt",
@@ -239,7 +434,8 @@
               "RelativeToolTip": "mvcProyectoWeb\\ScaffoldingReadMe.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-04-10T23:50:05.33Z"
+              "WhenOpened": "2024-04-10T23:50:05.33Z",
+              "EditorCaption": ""
             }
           ]
         }

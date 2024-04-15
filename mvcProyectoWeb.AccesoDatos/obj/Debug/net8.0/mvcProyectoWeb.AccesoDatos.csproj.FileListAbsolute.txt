@@ -36,3 +36,4 @@ C:\Users\anahi\source\repos\mvcProyectoWeb\mvcProyectoWeb\mvcProyectoWeb.AccesoD
 C:\Users\anahi\source\repos\mvcProyectoWeb\mvcProyectoWeb\mvcProyectoWeb.AccesoDatos\obj\Debug\net8.0\mvcProyectoWeb.AccesoDatos.pdb
 C:\Users\anahi\source\repos\mvcProyectoWeb\mvcProyectoWeb\mvcProyectoWeb.AccesoDatos\obj\Debug\net8.0\mvcProyectoWeb.AccesoDatos.genruntimeconfig.cache
 C:\Users\anahi\source\repos\mvcProyectoWeb\mvcProyectoWeb\mvcProyectoWeb.AccesoDatos\obj\Debug\net8.0\ref\mvcProyectoWeb.AccesoDatos.dll
+C:\Users\anahi\source\repos\mvcProyectoWeb\mvcProyectoWeb\mvcProyectoWeb.AccesoDatos\obj\Debug\net8.0\mvcProyectoWeb.AccesoDatos.sourcelink.json

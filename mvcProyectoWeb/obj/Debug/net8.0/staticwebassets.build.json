@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "b/oSLDs5tAUfTqMoTMo8DRgNVWsUhcouG9NC/7mKEd8=",
+  "Hash": "f7OmcfKnUQ/+twxdjOwKqCwj9N7xY3TApFhhBjK+sEo=",
   "Source": "mvcProyectoWeb",
   "BasePath": "_content/mvcProyectoWeb",
   "Mode": "Default",
@@ -1402,6 +1402,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
+      "SourceId": "mvcProyectoWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\wwwroot\\",
+      "BasePath": "_content/mvcProyectoWeb",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap5.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css"
     },
     {
       "Identity": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",

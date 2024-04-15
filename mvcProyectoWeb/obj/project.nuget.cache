@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A+6/V/RNOzqCr+rJfNOMMrvB84iFpUP0ZXGJZ49sT8NG9mtUU+rZDg0aZhnZzcYicrpDRGiuAyA5supo0kzLaw==",
+  "dgSpecHash": "qDSepog02ZBCDS0dXYCTo/72QoxP2/eoGKBdCqSxUheaZwcGTg7RIAaNRc3Nw9evdRsFaCQzVeDBujKoqrLmyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb.csproj",
+  "projectFilePath": "C:\\Users\\anahi\\source\\repos\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb\\mvcProyectoWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anahi\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\anahi\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -534,3 +534,4 @@ C:\Users\anahi\source\repos\mvcProyectoWeb\mvcProyectoWeb\mvcProyectoWeb\obj\Deb
 C:\Users\anahi\source\repos\mvcProyectoWeb\mvcProyectoWeb\mvcProyectoWeb\obj\Debug\net8.0\mvcProyectoWeb.pdb
 C:\Users\anahi\source\repos\mvcProyectoWeb\mvcProyectoWeb\mvcProyectoWeb\obj\Debug\net8.0\mvcProyectoWeb.genruntimeconfig.cache
 C:\Users\anahi\source\repos\mvcProyectoWeb\mvcProyectoWeb\mvcProyectoWeb\obj\Debug\net8.0\ref\mvcProyectoWeb.dll
+C:\Users\anahi\source\repos\mvcProyectoWeb\mvcProyectoWeb\mvcProyectoWeb\obj\Debug\net8.0\mvcProyectoWeb.sourcelink.json
